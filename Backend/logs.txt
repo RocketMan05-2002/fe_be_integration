@@ -103,3 +103,7 @@ End-point: /todos/get-todos | Method: GET | Date-Time: 1750235453774
 End-point: /todos/get-todos | Method: GET | Date-Time: 1750235463841 
 End-point: /todos/get-todos | Method: GET | Date-Time: 1750235497157 
 End-point: /todos/get-todos | Method: GET | Date-Time: 1750235544874 
+End-point: /todos/get-todos | Method: GET | Date-Time: 1750235673825 
+End-point: /todos/update-todo/1 | Method: OPTIONS | Date-Time: 1750235676372 
+End-point: /todos/update-todo/1 | Method: PUT | Date-Time: 1750235676385 
+End-point: /todos/get-todos | Method: GET | Date-Time: 1750235677784 
