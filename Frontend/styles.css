@@ -1,20 +1,22 @@
-body{
-    background-color: black;
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+body {
+  background-color: black;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-#container{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    gap: 20px;
+#container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
 }
-.card{
-    background-color: #ccc;
-    color: black;
-    padding: 20px;
-    box-shadow: 0 0 15px rgb(155, 188, 200);
+.card {
+  background-color: #ccc;
+  color: black;
+  padding: 20px;
+  box-shadow: 0 0 15px rgb(155, 188, 200);
 }
-button{
-    padding: 5px 12px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+button {
+  padding: 5px 12px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
